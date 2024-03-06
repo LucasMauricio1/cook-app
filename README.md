@@ -1,6 +1,6 @@
 <h1 align="center">Cook App 🎂</h1>
 
-![Gif do Teste](./src/assets/gif.gif)
+  <img src="./src/assets/gif.gif" width="200">
 
 > O aplicativo Cook App é para você que não tem ideias do que cozinhar com os ingredientes que tem em casa.
 
@@ -63,7 +63,7 @@ Antes de começar, você precisa ter [Git](https://git-scm.com) e [Node](https:/
 $ git clone https://github.com/LucasMauricio1/cook-app
 
 # Accesso
-$ cd interface-code-club-burguer
+$ cd cook-app
 
 # Instalando dependencias
 $ npm install
